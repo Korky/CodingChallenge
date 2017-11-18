@@ -1,0 +1,6 @@
+C:\Users\Imperius\Developer\CodingChallenge\bin\Debug\CodingChallenge.exe.config
+C:\Users\Imperius\Developer\CodingChallenge\bin\Debug\CodingChallenge.exe
+C:\Users\Imperius\Developer\CodingChallenge\bin\Debug\CodingChallenge.pdb
+C:\Users\Imperius\Developer\CodingChallenge\obj\Debug\CodingChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Imperius\Developer\CodingChallenge\obj\Debug\CodingChallenge.exe
+C:\Users\Imperius\Developer\CodingChallenge\obj\Debug\CodingChallenge.pdb
