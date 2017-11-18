@@ -14,6 +14,7 @@ namespace CodingChallenge
             public DateTime dod;//day of death
         }
 
+        //Large Dataset generator for proper testing
         static List<Person> GenerateData()
         {
             Random rand = new Random();
@@ -47,10 +48,10 @@ namespace CodingChallenge
                 }
             }
 
-
+            //Print solution
             Console.WriteLine("Most people alive in year " + maxYear + " " + maxPeople+"\n\n\nDataset(Date of Birth - Date of Death):");
 
-
+            //Print Dataset
             foreach (var person in pplLst)
             {
                 Console.Write(person.dob.ToShortDateString() + "-" + person.dod.ToShortDateString()+"\t");
