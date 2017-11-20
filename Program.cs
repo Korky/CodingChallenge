@@ -6,14 +6,13 @@ using System.Threading.Tasks;
 
 namespace CodingChallenge
 {
+    class Person
+    {
+        public DateTime dob;//date of birth
+        public DateTime dod;//date of death
+    }
     class Program
     {
-        class Person
-        {
-            public DateTime dob;//date of birth
-            public DateTime dod;//day of death
-        }
-
         //Large Dataset generator for proper testing
         static List<Person> GenerateData()
         {
